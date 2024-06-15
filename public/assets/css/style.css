@@ -1,0 +1,67 @@
+/*Header and Menu css*/
+.menu-header{
+	height: 50px;
+	background: #e8e8ff;
+}
+.menu-header img{
+	height: 48px;
+}
+.slider{
+	height: 500px;
+}
+.slider img{
+	height: 500px;
+}
+.Services{
+	height: 400px;
+	
+}
+.bg-mycolor{
+	background: #ef6c00;
+}
+.bg-text-mycolor{
+	background: #ef6c00;
+	color: white;
+}
+.text-mycolor{
+	color: #ef6c00;
+}
+.navbar ul li{
+	height: 50px;
+	width: 80px;
+	line-height: 50px;
+	float: left;
+	list-style: none;
+	margin: 7px;
+	font-size:17px ;
+	transform : translateY(-22px);
+}
+.navbar ul li a{
+	text-decoration:none;
+	color: black;
+}
+
+.navbar ul li a:hover{
+	
+	font-weight: bold;
+}
+
+/*Header and menu css End*/
+/*Footer css Start*/
+.footer{
+	min-height: 70px;
+	background: #303841;
+	line-height: 70px;
+
+}
+/*Footer css End*/
+/*Login Form css start*/
+.login-form{
+			min-height: 250px;
+			background: #ebedef;
+			margin: 100px auto;
+			border-radius: 8px;
+			
+		}
+/*Login Form css End*/
+
